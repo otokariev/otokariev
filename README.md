@@ -1,16 +1,16 @@
-# 👋 Hi, I'm Oleksandr
+# 🦾 Hi, I'm Oleksandr
 
-✨ *"Automation is not laziness. It's intelligence applied."*
-
----
-
-🎯 **Python Developer** | Backend • Bots • AI/LLM Agents • Parsing  
-📍 Poznań, Poland  
-🔗 [LinkedIn](https://www.linkedin.com/in/oleksandr-tokariev-346b23109/)
+💡 *"Automation is not laziness. It's intelligence applied."*
 
 ---
 
-### 🔧 Tech Stack
+🧠 **Python Developer** | Backend • Bots • AI/LLM Agents • Parsing  
+🌍 Poznań, Poland  
+🧬 [LinkedIn](https://www.linkedin.com/in/oleksandr-tokariev-346b23109/)
+
+---
+
+### ⚙️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -31,7 +31,7 @@
 
 ---
 
-### 🤖 Focus Areas
+### 🎯 Focus Areas
 
 | Area | Tools & Technologies |
 |---|---|
@@ -44,7 +44,7 @@
 
 ---
 
-### 📌 Projects & Highlights
+### 🚀 Projects & Highlights
 
 - 🤖 **AI-powered Telegram bot** — integrated Claude API for intelligent web scraping and data extraction from various websites
 - 🛠 **MCP demo bot** — built a demonstration of Claude API's Model Context Protocol capabilities
@@ -55,7 +55,7 @@
 
 ---
 
-### 🌱 About Me
+### 👤 About Me
 
 Python developer focused on backend, automation, and AI integration. Passionate about building practical AI-powered tools and automations that save real time for real people. Continuously learning — 7+ certificates in Python and Claude AI. Comfortable working independently in async environments.
 
@@ -64,7 +64,7 @@ Available for **remote work** and open to on-site opportunities in Poland.
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=otokariev&layout=compact&theme=tokyonight&hide_border=true)
 
